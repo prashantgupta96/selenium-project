@@ -1,0 +1,15 @@
+<?xml version = "1.0"?>
+<testData>
+	<productType acn="001">
+		<productCategory>Home &amp; Kitchen</productCategory>
+		<product>Curtains</product>
+	</productType>
+	<productType acn="002">
+		<productCategory>Daily Essentials</productCategory>
+		<product>Coffee &amp; Tea</product>
+	</productType>
+	<productType acn="003">
+		<productCategory>Mobiles &amp; Electronics</productCategory>
+		<product>Cables</product>
+	</productType>
+</testData>
